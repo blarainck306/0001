@@ -1,4 +1,4 @@
-# 0001
+# Airbnb booking prediction
 - EDA_initial: a quick look at all CSV files.
 
 - EDA_MissingValue&Visualization: further exploratory data analysis: visualizing the data in various aspects

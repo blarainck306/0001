@@ -9,4 +9,11 @@
 
 - Classifier_RF: random forest classifier with k-fold cross validation
 
+-Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest
+
+
+
+- NDCG_score_func: NDCG scoring function, see https://www.kaggle.com/wiki/NormalizedDiscountedCumulativeGain for details
+
+
 I will upload my other local files later.

@@ -9,7 +9,7 @@
 
 - Classifier_RF: random forest classifier with k-fold cross validation
 
--Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest
+- Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest
 
 
 

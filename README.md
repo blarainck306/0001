@@ -1,26 +1,26 @@
 # Airbnb booking prediction
 
-EDA:
+####EDA:
 - EDA_initial: a quick look at all CSV files.
 
 - EDA_MissingValue&Visualization: further exploratory data analysis: visualizing the data in various aspects
 
 
 
-Feature engineering: 
+####Feature engineering: 
 - Feature_engineering__session_Feature_extraction: new features are extracted from the raw data in the web session table
 
 - Feature_engineering__main: feature decompostion, feature extraction, missing value imputatoin, one-hot encoding and feature scaling
 
 
-Feature selection:
+####Feature selection:
 
 - Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest
 
 - Feature_selection_L1norm: feature selection logistic regression regularized with L1 norm, classification using random forest
 
 
-Classfication:
+####Classfication:
 
 - Classifier_RF: random forest classifier with k-fold cross validation
 
@@ -33,6 +33,6 @@ Classfication:
 - Classification_RF_cutoff: apply Random forest with different cutoff value for prediction to the data set with binarized labels
 
 
-Others:
+####Others:
 
 - NDCG_score_func: NDCG scoring function, see https://www.kaggle.com/wiki/NormalizedDiscountedCumulativeGain for details

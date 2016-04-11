@@ -1,4 +1,4 @@
-# Airbnb booking prediction
+# Airbnb booking prediction  https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 
 ####EDA:
 - EDA_initial: a quick look at all CSV files.

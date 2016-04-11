@@ -26,11 +26,11 @@ Classfication:
 
 - Classification_RF_confusion_matrix: Checking the confusion matrix of the random forest classifier.
 
-- Classification_RF_confusion_matrix_weighted_1: apply random  forest (with parameter class_weight = 'balanced')
+- Classification_RF_confusion_matrix_balanced_1: apply random  forest (with parameter class_weight = 'balanced')
 
-- Classification_RF_confusion_matrix_weighted_2: apply random forest (with parameter class_weight = 'balanced') to the data set with binarized labels ('NDF' and 'non-NDF')
+- Classification_RF_confusion_matrix_balanced_2: apply random forest (with parameter class_weight = 'balanced') to the data set with binarized labels ('NDF' and 'non-NDF')
 
-- Classification_RF_confusion_matrix_weighted_3: apply Random forest to the data set with binarized labels
+- Classification_RF_cutoff: apply Random forest with different cutoff value for prediction to the data set with binarized labels
 
 
 Others:

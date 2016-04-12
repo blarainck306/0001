@@ -30,7 +30,7 @@
 
 - Classification_RF_confusion_matrix_balanced_2: apply random forest (with parameter class_weight = 'balanced') to the data set with binarized labels ('NDF' and 'non-NDF')
 
-- Classification_RF_cutoff: apply Random forest with different cutoff value for prediction to the data set with binarized labels
+- Classification_RF_cutoff: apply Random forest with different cutoff value for prediction to the data set with binarized labels, ROC curve.
 
 
 ####Others:

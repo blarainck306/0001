@@ -10,7 +10,7 @@
 ####Feature engineering: 
 - Feature_engineering__session_Feature_extraction: new features are extracted from the raw data in the web session table
 
-- Feature_engineering__main: feature decompostion, feature extraction, missing value imputatoin, one-hot encoding and feature scaling
+- Feature_engineering__main: data cleaning--missing value imputation, feature decompostion, feature extraction, one-hot encoding and feature scaling
 
 
 ####Feature selection:

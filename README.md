@@ -15,7 +15,7 @@
 
 ####Feature selection:
 
-- Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest
+- Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest, select RF classifier parameters using grid search and cross validation. 
 
 - Feature_selection_L1norm: feature selection logistic regression regularized with L1 norm, classification using random forest
 

@@ -15,14 +15,14 @@
 
 ####Feature selection:
 
-- Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest, select RF classifier parameters using grid search and cross validation. 
+- Feature_selection_RF__CLF_RF: feature selection using random forest, classification using random forest
 
 - Feature_selection_L1norm: feature selection logistic regression regularized with L1 norm, classification using random forest
 
 
 ####Classfication:
 
-- Classifier_RF: random forest classifier with k-fold cross validation
+- Classifier_RF: random forest classifier with k-fold cross validation, select RF classifier parameters using grid search and cross validation. 
 
 - Classification_RF_confusion_matrix: Checking the confusion matrix of the random forest classifier.
 
